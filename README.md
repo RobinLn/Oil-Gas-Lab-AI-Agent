@@ -1,6 +1,8 @@
 # Oil-Gas-Lab-AI-Agent
 AI agents that analyze oil and gas lab samples and generate reports automatically
 
+Completed the Agents Intensive – Capstone Project!
+As part of the 5-Day AI Agents Intensive Course with Google (Nov 10–14, 2025), I built an Enterprise AI Agent that automates lab data analysis and generates client-ready oil & gas sample reports.
 
 Problem Statement
 
